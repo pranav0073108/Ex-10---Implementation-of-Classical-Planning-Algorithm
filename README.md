@@ -1,14 +1,15 @@
 #ExpNo:10 Implementation of Classical Planning Algorithm 
 
-**NAME: **
+**NAME:** 
 **REG NO:**
-##Algorithm or Steps Involved:
+## Algorithm or Steps Involved:
 Define the initial state
 Define the goal state
 Define the actions
 Find a plan to reach the goal state
 Print the plan
-Example - 1
+
+### Example - 1
 initial_state = {'A': 'Table', 'B': 'Table'}
 goal_state = {'A': 'B', 'B': 'Table'}
 
